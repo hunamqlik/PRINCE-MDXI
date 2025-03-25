@@ -1,7 +1,7 @@
 {
   "name": "PRINCE-MDXI",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Prince",
+  "description": "A WhatsApp Bot Created By Pr7ince",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name PRINCE-MDX",
